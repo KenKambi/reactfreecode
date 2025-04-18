@@ -1,9 +1,9 @@
-
+import {react} from "./assets/react.svg";
 
 export default function  Navbar() {
   return (
     <nav>
-     <img src="vitejs.webp" alt="React Logo" />
+     <img src={react} alt="React Logo" />
     </nav>
   );
 }
