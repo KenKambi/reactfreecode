@@ -1,10 +1,13 @@
-import Navbar from "./Navbar/Navbar"
+import Navbar from "./Navbar"
+import Fanfacts from "./Facts"
 
 function App() {
 
   return (
     <>
       <Navbar /> 
+      <Fanfacts />
+     
     </>
   )
 }
