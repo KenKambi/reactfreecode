@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: #242424;
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul>li{
+    padding: 10px;
+    list-style:square ;
+
+}
+
+div{
+    border: 1px solid white;
+    background-color: #242836;
+    border-radius: 10px;
+
+}
+
+.facts{
+    background-color: rgb(48, 46, 46);
+    color:antiquewhite;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-image: url('./assets/react.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}

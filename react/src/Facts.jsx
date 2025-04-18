@@ -3,7 +3,7 @@
 
 export default function Funfacts() {
     return (
-        <>
+        <div className="facts">
             <h1> Fun facts about React</h1>
             <ul>
                 <li>Was first released in 2013</li>
@@ -12,6 +12,6 @@ export default function Funfacts() {
                 <li>Is maintained by <Meta:edge></Meta:edge></li>
                 <li>Powers thousands of enterprise apps, including mobile apps</li>
             </ul>
-        </>
+        </div>
     );
 }
