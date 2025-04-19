@@ -16,10 +16,18 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     overflow: hidden;
 }
+
+h1{
+    text-align: center;
+}
 ul>li{
     padding: 10px;
     list-style:square ;
 
+}
+
+ul>li::marker{
+    color: aqua;
 }
 
 div{
@@ -35,8 +43,14 @@ div{
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
+
 }
 
 .facts:hover{
     border-color: aqua;
+}
+
+small{
+    display: flex;
+    justify-content: center;
 }
