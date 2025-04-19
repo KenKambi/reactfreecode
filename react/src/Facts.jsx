@@ -12,6 +12,7 @@ export default function Funfacts() {
                 <li>Is maintained by <Meta:edge></Meta:edge></li>
                 <li>Powers thousands of enterprise apps, including mobile apps</li>
             </ul>
+            <small> &copy; {new Date().getFullYear()}. This is my website</small>
         </div>
     );
 }
