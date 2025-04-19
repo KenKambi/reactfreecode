@@ -1,3 +1,7 @@
+
+
+
+
 .App{
     display : flex;
     flex-direction: column;
@@ -33,7 +37,7 @@ div{
     margin: 10px;
     background-image: url('./assets/react.svg');
     background-repeat: no-repeat;
-   
+    Background-size: cover;
 }
 
 .facts:hover{
