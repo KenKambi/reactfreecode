@@ -10,7 +10,7 @@ export default function Funfacts() {
                 <li>Was originaly created by Jordan Walke*.</li>
                 <li>Has well over 100k stars on Github. </li>
                 <li>Is maintained by Meta.</li>
-                <li>Powers thousands of enterprise apps, including mobile apps.</li>
+                <li>Powers thousands of enterprise apps, including mobile apps (React Native).</li>
             </ul>
             <small> &copy; {new Date().getFullYear()}. All rights reserved.</small>
         </div>
